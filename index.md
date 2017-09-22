@@ -1,5 +1,5 @@
 Markdown is a lightweight and easy-to-use for styling all forms of writing on the GitHub platform.
-### **What you will learn:**
+#### **What you will learn:**
 * How the Markdown format makes styled collaborative editing easy
 * How Markdown differs from traditional formatting approaches
 * How to use Markdown to format text
